@@ -16,12 +16,12 @@ armor_list = {
         "Bahan_per_item": {"Kain Lembu": 25, "Kain": 250, "Logam": 50},
     },
     "Zirah Pepagan": {
-        "Topen Kuzto Rusak": "x1",
+        "Topeng Kuzto Rusak": "x1",
         "Kacang Mistis": "x1",
         "Herbal Berkualitas": "x2",
         "Kayu": "1.850 poin",
         "Bahan_per_item": {
-            "Topen Kuzto Rusak": 1,
+            "Topeng Kuzto Rusak": 1,
             "Kacang Mistis": 1,
             "Herbal Berkualitas": 2,
             "Kayu": 1850,
